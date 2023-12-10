@@ -12,8 +12,6 @@
 
 <li>📝 I <del>regulary</del> write articles on <a href="https://www.ktasper.com/">my blog</a></li>
 
-<li>🤬 Someday's I hate computers</li>
-
 </ul>
 
 <h2>🚀 Some Tools I Use</h2>
@@ -61,3 +59,9 @@
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
+
+<h2>🚀Open Source Projects I have helped</h2>
+
+![Infracost](https://github.com/infracost/infracost/pull/2640)
+![publish-unit-test-result-action](https://github.com/EnricoMi/publish-unit-test-result-action/pull/362)
+![cloudposse/terraform-aws-dynamic-subnets](https://github.com/cloudposse/terraform-aws-dynamic-subnets/pull/156)
