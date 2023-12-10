@@ -61,7 +61,6 @@
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 
 <h2>🚀Open Source Projects I have helped</h2>
-
-![Infracost](https://github.com/infracost/infracost/pull/2640)
-![publish-unit-test-result-action](https://github.com/EnricoMi/publish-unit-test-result-action/pull/362)
-![cloudposse/terraform-aws-dynamic-subnets](https://github.com/cloudposse/terraform-aws-dynamic-subnets/pull/156)
+<li><a href="https://github.com/infracost/infracost/pull/2640">Infracost</a></p>
+<li><a href="https://github.com/EnricoMi/publish-unit-test-result-action/pull/362">publish-unit-test-result-action</a></p>
+<li><a href="https://github.com/cloudposse/terraform-aws-dynamic-subnets/pull/156">Cloudposse/terraform-aws-dynamic-subnets</a></p>
