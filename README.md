@@ -48,3 +48,5 @@
 <li><a href="https://github.com/infracost/infracost/pull/2640">Infracost</a></p>
 <li><a href="https://github.com/EnricoMi/publish-unit-test-result-action/pull/362">publish-unit-test-result-action</a></p>
 <li><a href="https://github.com/cloudposse/terraform-aws-dynamic-subnets/pull/156">Cloudposse/terraform-aws-dynamic-subnets</a></p>
+<li><a href="https://github.com/awslabs/amazon-ecr-credential-helper/pull/802">awslabs/amazon-ecr-credential-helper</a></p>
+
